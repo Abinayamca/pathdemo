@@ -1,0 +1,5 @@
+com\demo\pathdemo\PathdemoApplication.class
+com\demo\pathdemo\Service\PathService.class
+com\demo\pathdemo\Repository\PathRepo.class
+com\demo\pathdemo\Controller\PathController.class
+com\demo\pathdemo\Model\PathModel.class
